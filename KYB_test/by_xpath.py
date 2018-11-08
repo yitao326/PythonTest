@@ -1,4 +1,4 @@
-from find_element.capability import driver
+from KYB.capability import driver
 
 driver.find_element_by_xpath('//android.widget.EditText[@text="请输入用户名"]').send_keys('zxw1234')
 

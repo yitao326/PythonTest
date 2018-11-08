@@ -8,7 +8,7 @@ desired_caps['deviceName'] = '127.0.0.1:21503'
 desired_caps['platforVersion'] = '5.1.1'
 desired_caps['automationName']='uiautomator2'
 
-# desired_caps['app'] = r'C:\Users\Administrator\Desktop\kaoyan3.1.0.apk'
+desired_caps['app'] = r'C:\Users\Administrator\Desktop\kaoyan3.1.0.apk'
 desired_caps['appPackage'] = 'com.tal.kaoyan'
 desired_caps['appActivity'] = '.ui.activity.SplashActivity'
 

@@ -1,5 +1,5 @@
 # condig:utf-8
-from KYB_test.capability import driver,NoSuchElementException
+from KYB.capability import driver,NoSuchElementException
 
 def login():
     driver.find_element_by_id('com.tal.kaoyan:id/login_email_edittext').clear()
